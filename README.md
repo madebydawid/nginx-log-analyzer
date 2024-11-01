@@ -26,7 +26,7 @@ chmod +x log-analyze.sh
 
 3. Run the script by passing the Nginx access log file as an argument:
 ```bash
-sudo ./log-analyze.sh /path/to/nginx-access.log
+sudo ./analyze.sh /path/to/nginx-access.log
 ```
 
 4. **Output**
