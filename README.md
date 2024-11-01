@@ -31,6 +31,7 @@ sudo ./log-analyze.sh /path/to/nginx-access.log
 
 4. **Output**
 
+```bash
 Top 5 IP Addresses with Most Requests:
 IP Address           Count
 178.128.94.113       1087 requests
@@ -62,5 +63,7 @@ Mozilla/5.0                                        513 requests
 Mozilla/5.0                                        332 requests
 Custom-AsyncHttpClient                             294 requests
 Mozilla/5.0                                        282 requests
+```
+
 ---
 [Link to roadmap.sh](https://roadmap.sh/projects/nginx-log-analyser)
