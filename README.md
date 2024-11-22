@@ -14,7 +14,7 @@ This script is ment to analyze Nginx access log files from the command line. Thu
 
 - The script is designed to run on Unix-based systems (Linux/macOS).
 - You need to have access to an Nginx access log file (in standard log format).
-- ´awk´, `sort`, `uniq`, and `head` commands should be available on your system.
+- `awk`, `sort`, `uniq`, and `head` commands should be available on your system.
 
 # How to use it
 
